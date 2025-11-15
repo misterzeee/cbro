@@ -1,6 +1,22 @@
 # CBRO Rage Menu
 
+Ping @_misterzeee in the severe discord for any issues or suggestions.
+
 ## Overview
+
+**Load Script For Full**
+```luau
+bytecode = game:HttpGet("https://github.com/misterzeee/cbro/raw/refs/heads/main/cbroByteCode1.lua")
+local func = luau.load(bytecode)
+func()
+```
+
+**Load Script For Recoil/Spread ONLY (no ui)**
+```luau
+bytecode = game:HttpGet("https://github.com/misterzeee/cbro/raw/refs/heads/main/nospread.lua")
+local func = luau.load(bytecode)
+func()
+```
 
 **Theme**: Emerald
 
@@ -49,3 +65,7 @@
 
 #### Reset Guns Button
 - **Description**: Restores all weapons to their original values
+
+## TODO
+- **Skin Chnager**: Changes the skins in a user's inverntory/hand
+- **Fix Anti Aim**: Spin bot, character angle etc
