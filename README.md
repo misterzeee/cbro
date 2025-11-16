@@ -2,6 +2,8 @@
 
 Ping @_misterzeee in the severe discord for any issues or suggestions.
 
+[![Youtube Video](https://github.com/misterzeee/images-i-might-need/blob/main/cbroimage.md)](https://youtu.be/SuCaD22eaRE)
+
 ## Overview
 
 **Load Script For Full**
