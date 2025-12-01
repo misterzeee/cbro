@@ -2,7 +2,7 @@
 
 Ping @_misterzeee in the severe discord for any issues or suggestions.
 
-[![Youtube Video](https://github.com/user-attachments/assets/677637c8-93ff-452c-9391-0f5e249d75db)
+[![Youtube Video](https://github.com/user-attachments/assets/677637c8-93ff-452c-9391-0f5e249d75db)]
 
 ## Overview
 
