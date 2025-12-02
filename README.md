@@ -20,6 +20,13 @@ local func = luau.load(bytecode)
 func()
 ```
 
+**Experimental Skin Swapper**
+```luau
+bytecode = game:HttpGet("https://github.com/misterzeee/cbro/raw/refs/heads/main/SkinSwapper.lua")
+local func = luau.load(bytecode)
+func()
+```
+
 **Theme**: Emerald
 
 ## Tabs
